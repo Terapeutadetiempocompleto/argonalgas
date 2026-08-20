@@ -1,0 +1,111 @@
+[06:27:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[06:27:51] [ServerMain/INFO]: No existing world data, creating new world
+[06:27:52] [ServerMain/INFO]: Loaded 1470 recipes
+[06:27:52] [ServerMain/INFO]: Loaded 1584 advancements
+[06:27:52] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[06:27:52] [Server thread/INFO]: Loading properties
+[06:27:52] [Server thread/INFO]: Default game type: SURVIVAL
+[06:27:52] [Server thread/INFO]: Generating keypair
+[06:27:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:27:52] [Server thread/INFO]: Preparing level "world"
+[06:27:52] [Server thread/INFO]: Selecting global world spawn...
+[06:27:58] [Server thread/INFO]: Loading 0 persistent chunks...
+[06:27:58] [Server thread/INFO]: Preparing spawn area: 100%
+[06:27:58] [Server thread/INFO]: Time elapsed: 5952 ms
+[06:27:58] [Server thread/INFO]: Done (6.340s)! For help, type "help"
+[06:28:03] [User Authenticator #1/INFO]: UUID of player MarioIntro is b6d68f26-e77c-47f9-b18b-43ee69585511
+[06:28:08] [Server thread/INFO]: MarioIntro[/10.122.144.160:59843] logged in with entity id 58 at (44.5, 70.0, 193.5)
+[06:28:08] [Server thread/INFO]: MarioIntro joined the game
+[06:29:01] [User Authenticator #2/INFO]: UUID of player MexicanBlatanNob is daa0a50d-bdad-4ec0-b744-55a4afe67af3
+[06:29:03] [Server thread/INFO]: MexicanBlatanNob[/10.122.144.26:62780] logged in with entity id 594 at (51.5, 72.0, 192.5)
+[06:29:03] [Server thread/INFO]: MexicanBlatanNob joined the game
+[06:30:55] [Server thread/INFO]: MarioIntro has made the advancement [Stone Age]
+[06:31:00] [Server thread/INFO]: MarioIntro has made the advancement [Getting an Upgrade]
+[06:32:03] [Server thread/INFO]: MarioIntro has made the advancement [Acquire Hardware]
+[06:33:06] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Stone Age]
+[06:33:16] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Getting an Upgrade]
+[06:35:32] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Acquire Hardware]
+[06:36:14] [Server thread/INFO]: MarioIntro has made the advancement [Isn't It Iron Pick]
+[06:37:37] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Isn't It Iron Pick]
+[06:38:36] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Diamonds!]
+[06:40:04] [Server thread/INFO]: MexicanBlatanNob lost connection: Timed out
+[06:40:04] [Server thread/INFO]: MexicanBlatanNob left the game
+[06:40:04] [Server thread/WARN]: handleDisconnection() called twice
+[06:40:26] [User Authenticator #3/INFO]: UUID of player MexicanBlatanNob is daa0a50d-bdad-4ec0-b744-55a4afe67af3
+[06:40:27] [Server thread/INFO]: MexicanBlatanNob[/10.122.144.26:58921] logged in with entity id 6338 at (76.35152345405852, -5.0, 239.69999998807907)
+[06:40:27] [Server thread/INFO]: MexicanBlatanNob joined the game
+[06:40:34] [Server thread/INFO]: MarioIntro has made the advancement [Not Today, Thank You]
+[06:40:38] [Server thread/INFO]: MarioIntro has made the advancement [Monster Hunter]
+[06:41:02] [Server thread/INFO]: MarioIntro has made the advancement [Suit Up]
+[06:41:29] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Cover Me with Diamonds]
+[06:41:58] [Server thread/INFO]: MarioIntro has made the advancement [Diamonds!]
+[06:43:25] [Server thread/INFO]: MarioIntro has made the advancement [Cover Me with Diamonds]
+[06:46:26] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Ice Bucket Challenge]
+[06:52:13] [Server thread/INFO]: MarioIntro has made the advancement [Hot Stuff]
+[06:52:53] [Server thread/INFO]: MarioIntro has made the advancement [We Need to Go Deeper]
+[06:52:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3048ms or 60 ticks behind
+[06:52:55] [Server thread/WARN]: MexicanBlatanNob moved too quickly! -5.371729400540772,0.41999998688697815,-8.801243041727474
+[06:53:37] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Suit Up]
+[06:56:48] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Enchanter]
+[06:58:30] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Hot Stuff]
+[07:00:19] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Monster Hunter]
+[07:05:44] [Server thread/INFO]: MarioIntro has made the advancement [Those Were the Days]
+[07:05:52] [Server thread/INFO]: MexicanBlatanNob lost connection: Disconnected
+[07:05:52] [Server thread/INFO]: MexicanBlatanNob left the game
+[07:06:01] [User Authenticator #4/INFO]: UUID of player MexicanBlatanNob is daa0a50d-bdad-4ec0-b744-55a4afe67af3
+[07:06:02] [Server thread/INFO]: MexicanBlatanNob[/10.122.144.26:59417] logged in with entity id 17103 at (-47.424926161535986, 95.0, 628.3000000119209)
+[07:06:02] [Server thread/INFO]: MexicanBlatanNob joined the game
+[07:13:08] [Server thread/INFO]: MarioIntro has made the advancement [War Pigs]
+[07:14:05] [Server thread/INFO]: MexicanBlatanNob has made the advancement [We Need to Go Deeper]
+[07:15:37] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-12, y=95, z=76} is{x=-14, y=92, z=94}
+[07:15:37] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-12, y=95, z=76} is{x=-14, y=92, z=94}
+[07:15:37] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-12, y=95, z=76} is{x=-14, y=92, z=94}
+[07:15:37] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-12, y=95, z=76} is{x=-14, y=92, z=94}
+[07:15:37] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-12, y=95, z=76} is{x=-14, y=92, z=94}
+[07:16:10] [Server thread/INFO]: MarioIntro has made the advancement [Hidden in the Depths]
+[07:16:13] [Server thread/INFO]: MarioIntro has made the advancement [Who is Cutting Onions?]
+[07:16:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-46, y=67, z=211} is{x=-45, y=67, z=212}
+[07:18:24] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-189, y=73, z=559} is{x=-190, y=71, z=558}
+[07:18:24] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-189, y=73, z=559} is{x=-190, y=71, z=558}
+[07:18:34] [Server thread/INFO]: MexicanBlatanNob has made the advancement [A Terrible Fortress]
+[07:18:45] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Not Today, Thank You]
+[07:18:47] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Into Fire]
+[07:24:14] [Server thread/INFO]: MarioIntro has made the advancement [Ice Bucket Challenge]
+[07:28:52] [Server thread/INFO]: <MexicanBlatanNob> -302 501
+[07:30:48] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[07:30:48] [Server thread/INFO]: asd<--[HERE]
+[07:32:25] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Local Brewery]
+[07:33:38] [Server thread/INFO]: <MexicanBlatanNob> -2344 4003
+[07:38:00] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-2304, y=66, z=3969} is{x=-2303, y=66, z=3969}
+[07:38:55] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-2257, y=69, z=3975} is{x=-2258, y=69, z=3976}
+[07:38:55] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-2257, y=69, z=3975} is{x=-2258, y=69, z=3976}
+[07:40:53] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-2223, y=71, z=3855} is{x=-2221, y=70, z=3856}
+[07:40:53] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-2223, y=70, z=3857} is{x=-2221, y=70, z=3856}
+[07:45:14] [Server thread/INFO]: MarioIntro has made the advancement [Best Friends Forever]
+[07:45:20] [Server thread/INFO]: MarioIntro has made the advancement [Sweet Dreams]
+[07:45:33] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Sweet Dreams]
+[07:49:46] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-2411, y=64, z=1387} is{x=-2411, y=62, z=1387}
+[07:49:46] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-2411, y=64, z=1389} is{x=-2411, y=62, z=1390}
+[07:50:30] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-2362, y=64, z=1726} is{x=-2362, y=62, z=1727}
+[07:50:30] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-2362, y=64, z=1726} is{x=-2362, y=62, z=1727}
+[07:52:18] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-2297, y=57, z=2144} is{x=-2296, y=54, z=2143}
+[07:54:15] [Server thread/INFO]: MarioIntro has made the advancement [Enchanter]
+[07:54:41] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Who is Cutting Onions?]
+[07:58:05] [Server thread/INFO]: <MexicanBlatanNob> Z
+[07:58:05] [Server thread/INFO]: <MexicanBlatanNob> ZZ
+[07:58:06] [Server thread/INFO]: <MexicanBlatanNob> Z
+[07:58:06] [Server thread/INFO]: <MexicanBlatanNob> Z
+[07:58:06] [Server thread/INFO]: <MexicanBlatanNob> Z
+[07:58:06] [Server thread/INFO]: <MexicanBlatanNob> Z
+[07:58:06] [Server thread/INFO]: <MexicanBlatanNob> Z
+[07:58:06] [Server thread/INFO]: <MexicanBlatanNob> Z
+[07:58:07] [Server thread/INFO]: <MexicanBlatanNob> Z
+[07:58:07] [Server thread/INFO]: <MexicanBlatanNob> Z
+[07:58:07] [Server thread/INFO]: <MexicanBlatanNob> ZZ
+[07:58:07] [Server thread/INFO]: <MexicanBlatanNob> Z
+[07:58:07] [Server thread/INFO]: MexicanBlatanNob lost connection: Kicked for spamming
+[07:58:07] [Server thread/INFO]: MexicanBlatanNob left the game
+[07:58:16] [User Authenticator #5/INFO]: UUID of player MexicanBlatanNob is daa0a50d-bdad-4ec0-b744-55a4afe67af3
+[07:58:17] [Server thread/INFO]: MexicanBlatanNob[/10.122.144.26:60287] logged in with entity id 51762 at (-2315.5, 69.0, 1800.5)
+[07:58:17] [Server thread/INFO]: MexicanBlatanNob joined the game
+[07:59:25] [Server thread/INFO]: MexicanBlatanNob has made the advancement [Best Friends Forever]
